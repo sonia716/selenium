@@ -9,6 +9,7 @@ public class GitTest {
 	@Test
 	public void test() {
 		System.out.println("git1");
+		System.out.println("successfuly");
 	}
 
 }
